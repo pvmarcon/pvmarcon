@@ -1,1 +1,1 @@
-![Snake Fire](https://github.com/pvmarcon/pvmarcon/raw/output/fire.gif)
+![Snake Fire](https://github.com/pvmarcon/pvmarcon/raw/output/snake-fire.svg)
