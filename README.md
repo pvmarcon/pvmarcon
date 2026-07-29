@@ -1,3 +1,1 @@
-![Snake animation](https://github.com/pvmarcon/pvmarcon/blob/output/github-snake.svg)
-
-![snake gif](https://github.com/pvmarcon/pvmarcon/blob/output/github-snake-dark.svg)
+![Snake Fire](https://github.com/pvmarcon/pvmarcon/raw/output/fire.gif)
